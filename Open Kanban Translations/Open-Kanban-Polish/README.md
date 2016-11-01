@@ -2,21 +2,22 @@
 
 | Open Kanban Metadata |||
 | :------------ | -----------: | -------------------: |
-| Author:     | Joseph Hurtado  | Joseph at AgileLion dot com |
+| Autor:     | Joseph Hurtado  | Joseph at AgileLion dot com |
 | Contributor: | Annita Yegorova Hurtado | Annita at AgileLion dot com |
 | Sponsor:    | AgileLion Institute     | [AgileLion.com](http://agilelion.com) |
 | Main Repository:	| Open Kanban on GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
-| Document Name:	| Open Kanban Main | This page describes the heart of Open Kanban |
+| Nazwa dokumentu:	| Open Kanban Main | This page describes the heart of Open Kanban |
 | Release and License:     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
 
-## Our Movement for a Free Open Kanban
-Open Kanban is a movement to make the core values and principles of Kanban available to all. It is inspired by the Open Source [movement](https://en.wikipedia.org/wiki/Open-source_software) goal to give software users and developers the four essential freedoms of [free software.](http://www.gnu.org/philosophy/free-sw.html)
+## Społeczność Open Kanban
+Open Kanban stanowi społeczność rozpowszechniającą wartości i zasady metodyki Kanban, tak, aby były one dostępne dla wszystkich. Zainspirowana ruchem  [wolnego oprogramowania](https://en.wikipedia.org/wiki/Open-source_software)  ma na celu dać użytkownikom oraz programistom cztery zasadnicze [wolności](http://www.gnu.org/philosophy/free-sw.html).
 
-Likewise Open Kanban's purpose is to give the Kanban community those four freedoms, but now in the context of shared knowledge:  
-1. Freedom to use Open Kanban for any purpose (freedom 1)  
-2. Freedom to study, question, and change Open Kanban as you wish so that it works for you and your organization (freedom 2)  
-3. Freedom to fork or modify copies of Open Kanban to create your own customized version, and give it to anyone (freedom 3)  
-4. Freedom to benefit the entire Open Kanban community with a better solution for all, by sharing your contributions with the main Open Kanban repository. This is possible via your submissions to our main repository on [Github.](https://github.com/agilelion/Open-Kanban) This freedom shows our commitment to communication, collaboration and continuous improvement (freedom 4.)
+Również celem Open Kanban jest dać społeczności Kanban cztery swobody, lecz w kontekście współdzielenia wiedzy:
+
+1. Swoboda korzystania z Open Kanban w dowolnym celu (wolność 1)
+2. Wolność nauki, zadawania pytań i wprowadzania zmiany Open Kanban, tworząc swoją własną wersję dostosowując ją do wymagań swoich oraz swojej organizacji (wolność 2)
+3. Swoboda tworzenia rozgałęzień, modyfikowania kopii Open Kanban, tworząc swoją własną wersję i dzieląc się nią z innymi (wolność 3) 
+4. Wolność do korzystania całej społeczności Open Kanban  z ulepszeń, poprzez współdzielenie Waszego wkładu w Open Kanban. Jest to możliwe dzięki Waszym zgłoszeniom do naszego głównego repozytorium [Github.](https://github.com/agilelion/Open-Kanban) Wolność ta pokazuje nasze zaangażowanie w komunikację, współpracę i ciągłe doskonalenie (wolność 4)
 
 ## Open Kanban Introduction
 Kanban is becoming an important part of Agile Software Development and IT, VersionOne's authoritative 2013 [State of Agile Survey](http://bit.ly/AgileSurvey2013) reveals that Kanban has doubled in adoption among the Agile methodologies, and is frequently used as an alternative to Scrum.
