@@ -63,16 +63,18 @@ Wraz z rozwojem Open Kanban, spodziewamy się wielu nowych metod, które dołąc
 ## Komponenty Open Kanban
 Poniżej przedstawiono najważniejsze wartości i praktyki, które tworzą Open Kanban. Biorąc pod uwagę, że jest to wersja pierwsza, liczymy na wkład i korekty. Każda odpowiedź zwrotna jest dla nas mile widziana. Zatem uprzedzając pytania - Tak, możecie użyć GitHub'a oraz [Pull requestów](https://help.github.com/articles/using-pull-requests)!
 
-### 1. Open Kanban Values
-Open Kanban practices are rooted in values that are Lean and Agile; those values are an integral part of Open Kanban. Open Kanban values are:
+### 1. Wartości Open Kanban
+Praktyki Open Kanban zakorzenione są w tych samych wartościach, do jakich odnoszą się metodyki Lean i Agile. Wartości te stanowią integralną część metody, a są nimi:
 
-1.  Respect for people
-    *   At the core of Lean and TPS is respecting people. Respect for people also means assuming responsibility for your actions, and empowering others to take those actions.
-    *   Respect for people allows for delegation and the demand-pull that is crucial to Kanban. When any developer is able to take a story from the backlog and pull it to development or QA, he is able to do so because we respect him, we respect his skills, and we give him the ability to do so, we empower him through our respect.
-    *   Respect for people also aligns with sustainable pace in Agile, or Muri 無理 in Lean. If you respect your team you will not work them to death, or subject any worker to intellectual or physical demands that make it nearly impossible to succeed. An exhausted developer, manager or team are the perfect recipe for disaster. Kanban cannot succeed this way.
-2.  Courage
-	*   Respect for people is not enough; like [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658) noticed in order to improve or even correct mistakes we need courage. When a manager, VP, or person in authority makes a mistake and someone with lower rank notices it, it takes courage for him to tell us about it.
-    *   Courage combined with respect for people enable effective delegation, proper demand-pull and continuous improvement.
+1.  Szacunek dla ludzi
+    *  Duszą Lean oraz TPS(System Produkcyjny Toyoty) jest szacunek dla ludzi. Szacunek dla ludzi oznacza także ponoszenie odpowiedzialności za swoje czyny. W odniesieniu do działań swoich, jak i w odniesieniu do innych.
+    *   Szacunek dla ludzi pozwala na delegację i realizację systemów popytowych(tzw. demand-pull), co jest kluczowe dla metodyki Kanban. Kiedy każdy programista może wziąć zadanie z Backlogu i wyciągnąć je do implementacji lub QA(ang. Quality assurance), może to zrobić, ponieważ respektując jego osobę, respektujemy także jego umiejętności i dajemy mu możliwość wykonania zadania. Możemy go wesprzeć za pośrednictwem okazanego szacunku.
+    *   Szacunek dla ludzi przejawia się także w zrównoważonym tempie w Agile lub Muri 無理 w Lean. Jeżeli szanujesz swój zespół, nie będziesz chciał zapracować ich na śmierć, ani narazić żadnego pracownika przez wymagania intelektualne i fizyczne, które sprawiają, że prawie niemożliwe staje się osiągnięcie sukcesu. Wyczerpany programista, kierownik lub zespół są doskonałą receptą na katastrofę. Kanban w ten sposób nie może się udać.
+    
+2.  Odwaga
+	*   Sam szacunek dla ludzi nie wystarczy; jak zauważył [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658), aby usprawnić lub poprawiać błędy, musimy mieć odwagę. Kiedy manager, VP lub inna osoba wyższego szczebla popełni błąd, który zostanie zauważony przez podwładnych, powiedzenie mu o tym wymaga odwagi.
+    *   Odwaga łączy się z respektem dla ludzi umożliwiającym efektywną delegację zadań, odpowiednio funkcjonujący system demand-pull oraz ciągłe doskonalenie.
+
 3.  Focus on Value
     *   One of the key purposes of Kanban is the creation of value. In software development value means the creation of working, good quality code and is also part of Agile. Value implies customer satisfaction, and that is the purpose of our efforts.
     *   Value is at the center of Lean and TPS, but frequently it is mentioned as the reverse side of the coin: eliminate waste or "Muda" in Japanese Muda 無駄 represents anything that does not add value to your process or flow. By eliminating waste, we optimize the creation of value.
