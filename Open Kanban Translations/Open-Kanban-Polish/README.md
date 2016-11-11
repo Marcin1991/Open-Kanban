@@ -38,27 +38,30 @@ Open Kanban jest [ultra lekką metodą](http://agilelion.com/agile-kanban-cafe/a
 Jednakże Open Kanban nie jest pełną i kompletna metodą Agile lub Lean. Jest natomiast sercem takiej metody. Z tego powodu nazwaliśmy ją ultra lekką. Najlepszym porównaniem dla Open Kanban w dziedzinie oprogramowania może być [jądro](http://en.wikipedia.org/wiki/Linux_kernel) systemu operacyjnego open source.
 
 Open Kanban zawiera trzy kluczowe elementy definiujące tą metodę:  
+
 - zbiór wartości dopasowujących ją do idei [Agile](http://agilemanifesto.org) oraz [Lean](http://en.wikipedia.org/wiki/Lean_software_development) 
 - zbiór praktyk przekształcających te wartości w działanie
 - licencję open source pozwalającą każdemu na rozszerzanie oraz modyfikowanie.
 
-### The Open Kanban Movement
+### Ruch Open Kanban
 
-Extensions on top of Open Kanban constitute Agile and Lean Methods based on Open Kanban, or Open Kanban Methods. Open Kanban is the heart of all those Kanban methods. Our license allows them to be free or commercial. All these Kanban methods working together and collaborating are the basis of the Open Kanban Movement.  We look forward to having many Open Kanban methods that collaborate with each other to benefit all.
+Rozszerzenia stanowiące zewnętrzną warstwę Open Kanban reprezentują metody należące do rodziny Agile oraz Lean, opierające się na Open Kanban lub metodach wchodzących w skład Open Kanban. Open Kanban jest zatem podstawą tych wszystkich pokrewnych metod. Jego licencja pozwala im pozostać darmowymi jak i komercyjnymi. Wszystkie te metody współistnieją i współpracują jako podstawa ruchu Open Kanban(ang. Open Kanban Movement). Chcielibyśmy uzyskać wiele metod pokrewnych Open Kanban, które współpracują ze sobą wzajemnie dla uzyskania obopólnych korzyści.
 
-All Open Kanban Methods share in common the following characteristics:    
-- A common Open Kanban core that is both Agile and Lean  
-- A collaborative approach to improve Open Kanban itself by submitting their ideas back to the main Open Kanban repository; where they can be shared with all the Open Kanban community.
+Wszystkie metody Open Kanban charakteryzują się:    
 
-The nature of the Open Kanban Movement can be easily understood by examining the diagram below:
+
+- wspólnym rdzeniem Open Kanban, który należy do metod Agile jak i Lean,  
+- metodą ulepszania, opartą na współpracy, Open Kanban poprzez pomysły kierowane do głównego repozytorium, które mogą być dzielone ze wszystkimi członkami społeczności.
+
+Charakter mechanizmu Open Kanban można łatwo zrozumieć analizując poniższy diagram:
 ![Diagram of Open Kanban Methods - The Open Kanban Ecosystem](http://farm8.staticflickr.com/7420/9502339079_7c08751a30_o.png)
 
-Open Kanban can be extended and customized by people or organizations that wish to create an Agile and Lean Kanban method that is complete and customized for their particular audience. For example [Kanban Ace](http://agilelion.com/why-learn-kanban-ace) is an Agile and Lean Method based on Open Kanban; but extended to address the particular needs of IT,  Software Development and business. 
+Open Kanban może być rozszerzany i dostosowywany przez organizacje lub pojedyncze osoby, które chcą stworzyć kompletną i dostosowaną do konkretnych odbiorców metodę Kanban, np. [Kanban Ace](http://agilelion.com/why-learn-kanban-ace), który opiera się na Open Kanban, ale adresuje konkretne potrzeby  IT, przemysłu wytwarzania oprogramowania jak i biznesu.
 
-As the Open Kanban movement grows we expect many additional Open Kanban methods to join us. We already share many key ideas with Alan Shalloway's [Kanban for Teams](http://www.netobjectives.com/resources/articles/lean-kanban-for-teams), Corey Ladas [Scrumban](http://www.amazon.com/Scrumban-Essays-Systems-Software-Development/dp/0578002140/) and Karl Scotland's [Kanban Thinking](http://availagility.co.uk/kanban-thinking/). We extend an open invitation to them, and to any leading thinker or organization that wants to join us to build a strong Open Kanban Movement.
+Wraz z rozwojem Open Kanban, spodziewamy się wielu nowych metod, które dołączą do naszego ruchu. Już teraz dzielimy wiele kluczowych pomysłów z Alanem Shalloway - [Kanban dla zespołów](http://www.netobjectives.com/resources/articles/lean-kanban-for-teams), Corey Ladas - [Scrumban](http://www.amazon.com/Scrumban-Essays-Systems-Software-Development/dp/0578002140/) czy Karlem Scotlandem - [Kanban Thinking](http://availagility.co.uk/kanban-thinking/). Ponawiamy otwarte zaproszenie do nich, i do każdego innego lidera, innowatora lub organizacji, która chce dołączyć do nas, aby zbudować silny ruch Open Kanban.
 
-## Open Kanban Components
-The following are the key values and practices that make up Open Kanban. Given that this is our initial release, we do expect future contributions and revisions. Feedback is welcome, and yes you can use GitHub with a [Pull request](https://help.github.com/articles/using-pull-requests)!
+## Komponenty Open Kanban
+Poniżej przedstawiono najważniejsze wartości i praktyki, które tworzą Open Kanban. Biorąc pod uwagę, że jest to wersja pierwsza, liczymy na wkład i korekty. Każda odpowiedź zwrotna jest dla nas mile widziana. Zatem uprzedzając pytania - Tak, możecie użyć GitHub'a oraz [Pull requestów](https://help.github.com/articles/using-pull-requests)!
 
 ### 1. Open Kanban Values
 Open Kanban practices are rooted in values that are Lean and Agile; those values are an integral part of Open Kanban. Open Kanban values are:
