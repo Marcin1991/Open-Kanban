@@ -70,23 +70,21 @@ Praktyki Open Kanban zakorzenione są w tych samych wartościach, do jakich odno
     *  Duszą Lean oraz TPS(System Produkcyjny Toyoty) jest szacunek dla ludzi. Szacunek dla ludzi oznacza także ponoszenie odpowiedzialności za swoje czyny. W odniesieniu do działań swoich, jak i w odniesieniu do innych.
     *   Szacunek dla ludzi pozwala na delegację i realizację systemów popytowych(tzw. demand-pull), co jest kluczowe dla metodyki Kanban. Kiedy każdy programista może wziąć zadanie z Backlogu i wyciągnąć je do implementacji lub QA(ang. Quality assurance), może to zrobić, ponieważ respektując jego osobę, respektujemy także jego umiejętności i dajemy mu możliwość wykonania zadania. Możemy go wesprzeć za pośrednictwem okazanego szacunku.
     *   Szacunek dla ludzi przejawia się także w zrównoważonym tempie w Agile lub Muri 無理 w Lean. Jeżeli szanujesz swój zespół, nie będziesz chciał zapracować ich na śmierć, ani narazić żadnego pracownika przez wymagania intelektualne i fizyczne, które sprawiają, że prawie niemożliwe staje się osiągnięcie sukcesu. Wyczerpany programista, kierownik lub zespół są doskonałą receptą na katastrofę. Kanban w ten sposób nie może się udać.
-    
 2.  Odwaga
 	*   Sam szacunek dla ludzi nie wystarczy; jak zauważył [Kent Beck](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658), aby usprawnić lub poprawiać błędy, musimy mieć odwagę. Kiedy manager, VP lub inna osoba wyższego szczebla popełni błąd, który zostanie zauważony przez podwładnych, powiedzenie mu o tym wymaga odwagi.
     *   Odwaga łączy się z respektem dla ludzi umożliwiającym efektywną delegację zadań, odpowiednio funkcjonujący system demand-pull oraz ciągłe doskonalenie.
+3.  Koncentracja na dostarczeniu wartości
+	*	Jednym z kluczowych celów Kanban jest dostarczenie wartości. W rozwoju oprogramowania wartość oznacza tworzenie działającego kodu wysokiej jakości, co jest również częścią Agile. Wartość oznacza zadowolenie klienta, a to stanowi cel naszych starań.
+    *   Wartość stoi w centrum Lean i TPS, ale częstokroć wspominana jest też  druga strona medalu: elminacja odpadów lub "Muda" (po japońsku Muda 無駄), czyli wszystkiego, co nie dodaje wartości procesowi lub przepływowi. Elminując odpady, optymalizujemy także tworzenie wartości.
+4.  Komunikacja i współpraca
+	*  Komunikacja i współpraca stanowią centrum pracy zespołowej. Jedna wartość nie istnieje bez drugiej i to jest właśnie powód, dla którego zdecydowaliśmy się je zgrupować. Aby odnieść sukces sami musimy słuchać (komunikować się), ale także musimy być w stanie pracować z innymi, tworząc wartość.
+	*  Bez pracy zespołowej Kanban się nie powiedzie. Szczerze mówiąc prawie każdy biznes, w którym brakuje poprawnej komunikacji i współpracy zakończy się niepowodzeniem.
+5.  Całościowe i systematyczne podejście do zmian 
+	*   System Głębokiej Wiedzy ([System of Profound Knowledge](https://www.deming.org/theman/theories/profoundknowledge)) Deminga oraz Teoria  Ograniczeń (ang. [Theory of Constraints](http://en.wikipedia.org/wiki/Theory_of_constraints)) Goldratta przypominają nam, że żadna pojedyncza część systemu nie może usprawnić całości. Powinniśmy brać pod uwagę [całościowy](http://agilelion.com/agile-kanban-cafe/hkanban-holistic-approach-getting-things-done) obraz systemu i dobrze go zrozumieć. Kluczową częścią systemu są ludzie, nie tylko zasoby, gruntownie wykształcone jednostki, które sprawiają, że cały system działa.
+	*   Kanban jest zgodny z tą wizją i ma na celu kierowanie usprawnianiem tam, gdzie się to na prawdę kalkuluje. Zrozumienie całości jest fundamentem wprowadzania stałych i pozytywnych zmian.
 
-3.  Focus on Value
-    *   One of the key purposes of Kanban is the creation of value. In software development value means the creation of working, good quality code and is also part of Agile. Value implies customer satisfaction, and that is the purpose of our efforts.
-    *   Value is at the center of Lean and TPS, but frequently it is mentioned as the reverse side of the coin: eliminate waste or "Muda" in Japanese Muda 無駄 represents anything that does not add value to your process or flow. By eliminating waste, we optimize the creation of value.
-4.  Communication and Collaboration
-	*   Communication, and collaboration are at the center of teamwork. One value does not work without the other that is the reason we decided to group them together. To succeed we need to make ourselves heard (communicate) but also we need to be able to work with others to create value.
-    *   Without teamwork Kanban fails, and to be honest almost any business that does not communicate and collaborate properly will fail.
-5.  Holistic or Systemic Approach to Change  
-	*   Deming's [System of Profound Knowledge](https://www.deming.org/theman/theories/profoundknowledge) and Goldratt&rsquo;s [Theory of Constraints](http://en.wikipedia.org/wiki/Theory_of_constraints) reminds us that no single part of a system can ever bring overall improvement. We need to take a [holistic](http://agilelion.com/agile-kanban-cafe/hkanban-holistic-approach-getting-things-done) view of the system and understand it. And the key part of the system is people, not just as resources, but also as full rounded individuals who make the system work.
-    *   Kanban agrees with this vision and aims to drive improvement where it counts. An understanding of the whole is fundamental to arrive at steady, successful change.
- 
-### 2. Open Kanban Practices
-Open Kanban values translate into action by following four key practices:
+### 2. Praktyki Open Kanban
+Wartości Open Kanban przekładają się na działania, wykorzystując cztery główne praktyki:
 
 1.  Visualize the workflow
 	* When we are doing knowledge work, like programming a method, designing a user interface or writing a business report most of the work is invisible. This means that the output of your effort is much smaller than the effort involved, and the bulk of that effort cannot be easily seen.
@@ -142,6 +140,7 @@ Finally do consider contributing to the sponsor behind this project: AgileLion I
 
 We truly believe in an open, collaborative Open Kanban Movement for all, thanks so much for staying with us all the way to the end Open Kanban's main document. May the values and principles of Open Kanban be useful to all of you!
 
+
 Joseph Hurtado  
-Founder [AgileLion Institute](http://agilelion.com)  
-Kanban Ace Coach - An Open Kanban Method
+Założyciel [AgileLion Institute](http://agilelion.com)  
+Trener Kanban Ace - metodyki Open Kanban
